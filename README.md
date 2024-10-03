@@ -1,3 +1,5 @@
+![logo](https://github.com/prathamdalwale/prathamdalwale/blob/9c9010598df41c55b18e3beda7cd84327b87e41c/software%20engineering.png)
+
 # Hi 👋, I'm Pratham Dalwale
 
 A passionate **Software Developer** and **Development Team Lead** from Pune, India 🇮🇳.
